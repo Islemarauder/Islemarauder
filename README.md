@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Islemarauder
-- 👀 I’m interested in Web development and smart contract development within web3.
-- 🌱 I’m currently learning HTML5, CSS, and Javascript.
+- 👀 I’m interested in web development as well as blockchain/smart contract development
+- 🌱 I’m currently learning JavaScript (React) and Solidity
 - 💞️ I’m looking to collaborate on practically anything. I wish to learn as much as possible and feel that exposure is key.
 - 📫 You can reach me via email (islemarauder@gmail.com) or DM me via Twitter @Islemarauder
 
